@@ -1,6 +1,6 @@
 # My solutions to [C++ Primer (5th Edition)](https://www.informit.com/store/c-plus-plus-primer-9780321714114)
 
-- Chapter 1. Getting Started
+- [Chapter 1. Getting Started](./ch01/README.md)
 - Part I: The Basics
     - Chapter 2. Variables and Basic Types
     - Chapter 3. Strings, Vectors, and Arrays
