@@ -281,14 +281,13 @@ The loop control variable in the code above is going from 1 through 10, but the 
 
 ## Exercise 3.31
 
-[exercise3_31.cpp](exercise3_31.cpp)
+[`exercise3_31.cpp`](exercise3_31.cpp)
 
 
 ## Exercise 3.32
 
-[exercise3_32a.cpp](exercise3_32a.cpp)
-
-[exercise3_32b.cpp](exercise3_32b.cpp)
+[`exercise3_32a.cpp`](exercise3_32a.cpp)<br>
+[`exercise3_32b.cpp`](exercise3_32b.cpp)
 
 
 ## Exercise 3.33
@@ -309,14 +308,13 @@ The code above is always legal, no matter the values of `p1` and `p2` (assuming 
 
 ## Exercise 3.35
 
-[exercise3_35.cpp](exercise3_35.cpp)
+[`exercise3_35.cpp`](exercise3_35.cpp)
 
 
 ## Exercise 3.36
 
-[exercise3_36a.cpp](exercise3_36a.cpp)
-
-[exercise3_36b.cpp](exercise3_36b.cpp)
+[`exercise3_36a.cpp`](exercise3_36a.cpp)<br>
+[`exercise3_36b.cpp`](exercise3_36b.cpp)
 
 
 ## Exercise 3.37
@@ -342,48 +340,41 @@ Pointers hold memory addresses. What would be the point (pun intended) of adding
 
 ## Exercise 3.39
 
-[exercise3_39a.cpp](exercise3_39a.cpp)
-
-[exercise3_39b.cpp](exercise3_39b.cpp)
+[`exercise3_39a.cpp`](exercise3_39a.cpp)<br>
+[`exercise3_39b.cpp`](exercise3_39b.cpp)
 
 
 ## Exercise 3.40
 
-[exercise3_40.cpp](exercise3_40.cpp)
+[`exercise3_40.cpp`](exercise3_40.cpp)
 
 
 ## Exercise 3.41
 
-[exercise3_41.cpp](exercise3_41.cpp)
+[`exercise3_41.cpp`](exercise3_41.cpp)
 
 
 ## Exercise 3.42
 
-[exercise3_42.cpp](exercise3_42.cpp)
+[`exercise3_42.cpp`](exercise3_42.cpp)
 
 
 ## Exercise 3.43
 
-[exercise3_43a.cpp](exercise3_43a.cpp)
-
-[exercise3_43b.cpp](exercise3_43b.cpp)
-
-[exercise3_43c.cpp](exercise3_43c.cpp)
+[`exercise3_43a.cpp`](exercise3_43a.cpp)<br>
+[`exercise3_43b.cpp`](exercise3_43b.cpp)<br>
+[`exercise3_43c.cpp`](exercise3_43c.cpp)
 
 
 ## Exercise 3.44
 
-[exercise3_44a.cpp](exercise3_44a.cpp)
-
-[exercise3_44b.cpp](exercise3_44b.cpp)
-
-[exercise3_44c.cpp](exercise3_44c.cpp)
+[`exercise3_44a.cpp`](exercise3_44a.cpp)<br>
+[`exercise3_44b.cpp`](exercise3_44b.cpp)<br>
+[`exercise3_44c.cpp`](exercise3_44c.cpp)
 
 
 ## Exercise 3.45
 
-[exercise3_45a.cpp](exercise3_45a.cpp)
-
-[exercise3_45b.cpp](exercise3_45b.cpp)
-
-[exercise3_45c.cpp](exercise3_45c.cpp)
+[`exercise3_45a.cpp`](exercise3_45a.cpp)<br>
+[`exercise3_45b.cpp`](exercise3_45b.cpp)<br>
+[`exercise3_45c.cpp`](exercise3_45c.cpp)
